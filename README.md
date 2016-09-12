@@ -1,2 +1,2 @@
-# Dockerfile for Kibana plugin Sense
+### Dockerfile for Kibana with Sense plugin
 
